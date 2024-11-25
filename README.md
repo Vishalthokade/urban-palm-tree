@@ -2,15 +2,15 @@
 
 This repo has following content:
 
-Overview
+**Overview**
 
 Deploy a web application in a cloud-based Kubernetes solution, ensuring proper logging and monitoring are in place.
 
-Application Functionality
+**Application Functionality**
 
 The web application shall have a simple static page of content.
 
-Expected Outcome
+**Expected Outcome**
 
 Your solution should contain the following items.
 
