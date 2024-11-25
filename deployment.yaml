@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nodeapp
-        image: hackerearth/node-app:latest
+        image: nodeapp:latest
         ports:
         - containerPort: 3000
